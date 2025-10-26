@@ -1,7 +1,5 @@
 # 🧠 TaskManager
 
-[Pobierz TaskManager.exe](https://github.com/mat-jan/Task-Manager/raw/refs/heads/main/dist/TaskManager.exe)
-
 
 Prosty menedżer zadań napisany w Pythonie, zapisujący dane w pliku JSON.  
 Pozwala dodawać, przeglądać i usuwać zadania bez potrzeby korzystania z bazy danych.
@@ -21,8 +19,6 @@ Pozwala dodawać, przeglądać i usuwać zadania bez potrzeby korzystania z bazy
 -------------------------------------------------------------------------------------------------------
 
 # 🧠 TaskManager
-
-[Donload the TaskManager.exe](https://github.com/mat-jan/Task-Manager/raw/refs/heads/main/dist/TaskManager.exe)
 
 A simple task manager written in Python that saves data to a JSON file.
 
